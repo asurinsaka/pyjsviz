@@ -1,0 +1,20 @@
+Date: Thu, 03 Oct 2019 21:52:57 GMT
+Content-Type: image/jpeg
+Etag: 1127585986bbbdba438ae9023d7bb4a1
+Server: ATS/8.0.5
+X-Ats-Timestamp: 1570098307
+Last-Modified: Wed, 30 Aug 2017 15:10:46 GMT
+X-Timestamp: 1504105845.28869
+X-Trans-Id: tx46ca416b99514df8804dd-005d30504b
+X-Varnish: 27780989 734710595
+Age: 41269
+X-Cache: cp1080 hit, cp1082 hit/82
+X-Cache-Status: hit-front
+Server-Timing: cache;desc="hit-front"
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+X-Analytics: WMF-Last-Access=03-Oct-2019;https=1
+X-Client-Ip: 98.227.157.134
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Age, Date, Content-Length, Content-Range, X-Content-Duration, X-Cache, X-Varnish
+Timing-Allow-Origin: *
+Accept-Ranges: bytes

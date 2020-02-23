@@ -1,0 +1,9 @@
+Date: Thu, 03 Oct 2019 21:24:16 GMT
+Server: Varnish
+X-Varnish: 870310871
+X-Cache: cp1082 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc="int-front"
+Set-Cookie: WMF-Last-Access=03-Oct-2019;Path=/;HttpOnly;secure;Expires=Mon, 04 Nov 2019 12:00:00 GMT
+X-Client-Ip: 98.227.157.134
+Location: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Shinz%C5%8D_Abe_and_Malala_Yousafzai_%281%29_Cropped.jpg/220px-Shinz%C5%8D_Abe_and_Malala_Yousafzai_%281%29_Cropped.jpg

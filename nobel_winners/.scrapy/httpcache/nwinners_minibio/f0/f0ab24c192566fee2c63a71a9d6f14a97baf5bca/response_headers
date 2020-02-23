@@ -1,0 +1,22 @@
+Date: Thu, 03 Oct 2019 21:19:40 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding,Cookie,Authorization
+Server: ATS/8.0.5
+X-Ats-Timestamp: 1570077204
+X-Powered-By: PHP/7.2.22-1+0~20190902.26+debian9~1.gbpd64eb7+wmf1
+X-Content-Type-Options: nosniff
+P3P: CP="See https://en.wikipedia.org/wiki/Special:CentralAutoLogin/P3P for more info."
+Content-Language: en
+Last-Modified: Mon, 23 Sep 2019 22:50:28 GMT
+Backend-Timing: D=153038 t=1569416339311401
+Content-Encoding: gzip
+X-Varnish: 801967585 1029482749
+Age: 60376
+X-Cache: cp1075 miss, cp1083 hit/4
+X-Cache-Status: hit-front
+Server-Timing: cache;desc="hit-front"
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+X-Analytics: ns=0;page_id=39093020;WMF-Last-Access=03-Oct-2019;WMF-Last-Access-Global=03-Oct-2019;https=1
+X-Client-Ip: 98.227.157.134
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Accept-Ranges: bytes

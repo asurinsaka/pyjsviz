@@ -1,0 +1,23 @@
+Date: Thu, 03 Oct 2019 20:33:32 GMT
+Content-Type: text/plain; charset=utf-8
+Server: mw1268.eqiad.wmnet
+Cache-Control: s-maxage=3600, must-revalidate, max-age=0
+Vary: X-Subdomain
+X-Powered-By: PHP/7.2.22-1+0~20190902.26+debian9~1.gbpd64eb7+wmf1
+X-Content-Type-Options: nosniff
+X-Article-Id: 19292575
+X-Language: en
+X-Site: wikipedia
+Last-Modified: Mon, 30 Sep 2019 21:40:32 GMT
+Backend-Timing: D=32176 t=1570070173345980
+Content-Encoding: gzip
+X-Varnish: 977540327 965359630, 739460997 736436387
+Age: 747
+X-Cache: cp1081 hit/3, cp1083 hit/111
+X-Cache-Status: hit-front
+Server-Timing: cache;desc="hit-front"
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+X-Analytics: WMF-Last-Access=03-Oct-2019;WMF-Last-Access-Global=03-Oct-2019;https=1
+X-Client-Ip: 98.227.157.134
+Set-Cookie: GeoIP=US:IL:Chicago:41.80:-87.60:v4; Path=/; secure; Domain=.wikipedia.org
+Accept-Ranges: bytes

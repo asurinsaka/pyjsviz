@@ -1,0 +1,9 @@
+Date: Thu, 03 Oct 2019 21:24:17 GMT
+Server: Varnish
+X-Varnish: 875213441
+X-Cache: cp1082 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc="int-front"
+Set-Cookie: WMF-Last-Access=03-Oct-2019;Path=/;HttpOnly;secure;Expires=Mon, 04 Nov 2019 12:00:00 GMT
+X-Client-Ip: 98.227.157.134
+Location: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Paris_-_Salon_du_livre_2012_-_Kenzabur%C5%8D_%C5%8Ce_-_003.jpg/200px-Paris_-_Salon_du_livre_2012_-_Kenzabur%C5%8D_%C5%8Ce_-_003.jpg

@@ -1,0 +1,9 @@
+Date: Thu, 03 Oct 2019 21:24:21 GMT
+Server: Varnish
+X-Varnish: 879591492
+X-Cache: cp1082 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc="int-front"
+Set-Cookie: WMF-Last-Access=03-Oct-2019;Path=/;HttpOnly;secure;Expires=Mon, 04 Nov 2019 12:00:00 GMT
+X-Client-Ip: 98.227.157.134
+Location: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sully_Prudhomme%2C_Ren%C3%A9-Fran%C3%A7ois-Armand%2C_BNF_Gallica.jpg/200px-Sully_Prudhomme%2C_Ren%C3%A9-Fran%C3%A7ois-Armand%2C_BNF_Gallica.jpg

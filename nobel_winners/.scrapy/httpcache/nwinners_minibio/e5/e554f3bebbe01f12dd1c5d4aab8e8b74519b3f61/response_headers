@@ -1,0 +1,22 @@
+Date: Thu, 03 Oct 2019 21:53:24 GMT
+Content-Type: image/jpeg
+Etag: 698bbf71b0573c451555c7d9f488eb76
+Server: ATS/8.0.5
+X-Ats-Timestamp: 1570109261
+X-Object-Meta-Sha1Base36: 3o2otheomwp4wpgw8ggskuj0kuiwx72
+Content-Disposition: inline;filename*=UTF-8''Kailash_Satyarthi_March_2015.jpg
+Last-Modified: Tue, 10 Mar 2015 11:12:12 GMT
+X-Timestamp: 1425985931.58593
+X-Trans-Id: tx257b35ce81b6499ab9240-005d934aaa
+X-Varnish: 882529148 763152058
+Age: 30343
+X-Cache: cp1076 miss, cp1082 hit/2
+X-Cache-Status: hit-front
+Server-Timing: cache;desc="hit-front"
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+X-Analytics: WMF-Last-Access=03-Oct-2019;https=1
+X-Client-Ip: 98.227.157.134
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Age, Date, Content-Length, Content-Range, X-Content-Duration, X-Cache, X-Varnish
+Timing-Allow-Origin: *
+Accept-Ranges: bytes

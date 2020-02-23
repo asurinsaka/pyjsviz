@@ -1,0 +1,22 @@
+Date: Thu, 03 Oct 2019 21:53:16 GMT
+Content-Type: image/jpeg
+Etag: 54626edbc86b46ee43928bfb5c6bd1cc
+Server: ATS/8.0.5
+X-Ats-Timestamp: 1570119492
+X-Object-Meta-Sha1Base36: i095llwfu512nomau2ydd00o0gur4oz
+Content-Disposition: inline;filename*=UTF-8''Leonid_Kantorovich_1975.jpg
+Last-Modified: Wed, 23 Nov 2016 20:04:03 GMT
+X-Timestamp: 1479931442.93335
+X-Trans-Id: tx0f9d6a4befbe41fa88288-005d938ba5
+X-Varnish: 885523076 802837708
+Age: 20104
+X-Cache: cp1080 hit, cp1082 hit/3
+X-Cache-Status: hit-front
+Server-Timing: cache;desc="hit-front"
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+X-Analytics: WMF-Last-Access=03-Oct-2019;https=1
+X-Client-Ip: 98.227.157.134
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Age, Date, Content-Length, Content-Range, X-Content-Duration, X-Cache, X-Varnish
+Timing-Allow-Origin: *
+Accept-Ranges: bytes

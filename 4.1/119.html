@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+	#chart {
+		background: #eee;
+		font-family: sans-serif;
+	}
+	
+	#chart text{ font-size: 16px; }
+	#chart text#title{ font-size: 18px; }
+
+	#chart line#total {
+		stroke: green;
+		stroke-width: 3px;
+		opacity: 0.5;
+	}
+
+	#chart circle {
+		fill: lightblue;
+	}
+
+	#chart line {
+		stroke: #555555; 
+		stroke-width: 2;
+	}
+
+	#chart rect {
+		stroke: blue;
+		fill: blue;
+	}
+
+	#chart polygon {
+		fill: green;
+	}
+	#chart path {stroke: red; fill: none}
+
+</style>
+
+<svg id="chart" width="300" height="225">
+	<rect width="20" height="40" transform="translate(60, 55)"
+	      fill="blue" />
+	
+	<rect width="20" height="40" transform="translate(120, 55),
+	      rotate(45)" fill="blue" />
+	
+	<rect width="20" height="40" transform="translate(180, 55),
+	      scale(0.5)" fill="blue" />
+	<rect width="20" height="40" transform="translate(240, 55),
+	      rotate(45),scale(0.5)" fill="blue" />
+</svg>
+
+
+
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="script.js"></script>

@@ -1,0 +1,21 @@
+Date: Thu, 03 Oct 2019 21:53:01 GMT
+Content-Type: image/png
+Etag: 6640f59f045591faa8a5fbf01f1f8619
+Server: ATS/8.0.3
+X-Object-Meta-Sha1Base36: rvmb8cmkx4gty1d326xqwzyw8ojdvg2
+Content-Disposition: inline;filename*=UTF-8''James_Tobin.png
+Last-Modified: Mon, 16 Mar 2015 20:59:03 GMT
+X-Timestamp: 1426539542.73715
+X-Trans-Id: tx443f3af64ce74f2791fd4-005d9406d3
+X-Varnish: 880881891 725925071
+Age: 56493
+X-Cache: cp1088 hit, cp1082 hit/2
+X-Cache-Status: hit-front
+Server-Timing: cache;desc="hit-front"
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+X-Analytics: WMF-Last-Access=03-Oct-2019;https=1
+X-Client-Ip: 98.227.157.134
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Age, Date, Content-Length, Content-Range, X-Content-Duration, X-Cache, X-Varnish
+Timing-Allow-Origin: *
+Accept-Ranges: bytes

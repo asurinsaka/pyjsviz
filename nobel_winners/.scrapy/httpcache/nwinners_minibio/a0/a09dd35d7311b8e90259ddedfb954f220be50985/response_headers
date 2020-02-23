@@ -1,0 +1,9 @@
+Date: Thu, 03 Oct 2019 21:24:21 GMT
+Server: Varnish
+X-Varnish: 865861430
+X-Cache: cp1082 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc="int-front"
+Set-Cookie: WMF-Last-Access=03-Oct-2019;Path=/;HttpOnly;secure;Expires=Mon, 04 Nov 2019 12:00:00 GMT
+X-Client-Ip: 98.227.157.134
+Location: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Gerd_Binnig_at_the_Memorial_Symposium_for_Heinrich_Rohrer_%28cropped%29_2.jpg/220px-Gerd_Binnig_at_the_Memorial_Symposium_for_Heinrich_Rohrer_%28cropped%29_2.jpg

@@ -1,0 +1,24 @@
+Date: Thu, 03 Oct 2019 20:39:13 GMT
+Content-Type: text/html; charset=utf-8
+Server: mw1330.eqiad.wmnet
+X-Powered-By: PHP/7.2.22-1+0~20190902.26+debian9~1.gbpd64eb7+wmf1
+X-Content-Type-Options: nosniff
+P3P: CP="See https://www.wikidata.org/wiki/Special:CentralAutoLogin/P3P for more info."
+Vary: Accept-Encoding,X-Forwarded-Proto,Cookie,Authorization
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Last-Modified: Thu, 03 Oct 2019 20:39:13 GMT
+Location: https://www.wikidata.org/wiki/Q188567
+Backend-Timing: D=28471 t=1570135153738114
+X-Ats-Timestamp: 1570135153
+X-Varnish: 750923255
+Age: 0
+X-Cache: cp1075 miss, cp1083 pass
+X-Cache-Status: miss
+Server-Timing: cache;desc="miss"
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+Set-Cookie: WMF-Last-Access=03-Oct-2019;Path=/;HttpOnly;secure;Expires=Mon, 04 Nov 2019 12:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=03-Oct-2019;Path=/;Domain=.wikidata.org;HttpOnly;secure;Expires=Mon, 04 Nov 2019 12:00:00 GMT
+Set-Cookie: GeoIP=US:IL:Chicago:41.80:-87.60:v4; Path=/; secure; Domain=.wikidata.org
+X-Analytics: https=1;nocookies=1
+X-Client-Ip: 98.227.157.134
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate

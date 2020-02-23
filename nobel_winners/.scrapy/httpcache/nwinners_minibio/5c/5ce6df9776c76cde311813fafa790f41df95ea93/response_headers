@@ -1,0 +1,21 @@
+Date: Thu, 03 Oct 2019 21:19:47 GMT
+Content-Type: text/html; charset=UTF-8
+Server: mw1333.eqiad.wmnet
+Vary: Accept-Encoding,Cookie,Authorization
+X-Powered-By: PHP/7.2.22-1+0~20190902.26+debian9~1.gbpd64eb7+wmf1
+X-Content-Type-Options: nosniff
+P3P: CP="See https://en.wikipedia.org/wiki/Special:CentralAutoLogin/P3P for more info."
+Content-Language: en
+Last-Modified: Thu, 26 Sep 2019 16:41:42 GMT
+Backend-Timing: D=1405003 t=1569935029575520
+Content-Encoding: gzip
+X-Varnish: 666113004 308266772, 761593021 475481513
+Age: 114700
+X-Cache: cp1077 hit/4, cp1083 hit/2
+X-Cache-Status: hit-front
+Server-Timing: cache;desc="hit-front"
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+X-Analytics: ns=0;page_id=3674396;WMF-Last-Access=03-Oct-2019;WMF-Last-Access-Global=03-Oct-2019;https=1
+X-Client-Ip: 98.227.157.134
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Accept-Ranges: bytes

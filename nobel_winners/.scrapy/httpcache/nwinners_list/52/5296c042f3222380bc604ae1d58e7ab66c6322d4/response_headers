@@ -1,0 +1,20 @@
+Date: Thu, 03 Oct 2019 20:39:27 GMT
+Content-Type: text/html; charset=utf-8
+Server: mw1270.eqiad.wmnet
+X-Powered-By: PHP/7.2.22-1+0~20190902.26+debian9~1.gbpd64eb7+wmf1
+X-Content-Type-Options: nosniff
+P3P: CP="See https://www.wikidata.org/wiki/Special:CentralAutoLogin/P3P for more info."
+Vary: Accept-Encoding,X-Forwarded-Proto,Cookie,Authorization
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Last-Modified: Thu, 03 Oct 2019 20:39:27 GMT
+Location: https://www.wikidata.org/wiki/Q116064
+Backend-Timing: D=36409 t=1570135167168255
+X-Varnish: 233597692, 759976930
+Age: 0
+X-Cache: cp1085 pass, cp1083 pass
+X-Cache-Status: pass
+Server-Timing: cache;desc="pass"
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+X-Analytics: WMF-Last-Access=03-Oct-2019;WMF-Last-Access-Global=03-Oct-2019;https=1
+X-Client-Ip: 98.227.157.134
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate

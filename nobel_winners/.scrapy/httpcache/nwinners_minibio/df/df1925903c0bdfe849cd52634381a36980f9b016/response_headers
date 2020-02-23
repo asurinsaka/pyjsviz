@@ -1,0 +1,9 @@
+Date: Thu, 03 Oct 2019 21:24:05 GMT
+Server: Varnish
+X-Varnish: 875540896
+X-Cache: cp1082 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc="int-front"
+Set-Cookie: WMF-Last-Access=03-Oct-2019;Path=/;HttpOnly;secure;Expires=Mon, 04 Nov 2019 12:00:00 GMT
+X-Client-Ip: 98.227.157.134
+Location: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Walter_Gilbert_HD2008_portrait.JPG/220px-Walter_Gilbert_HD2008_portrait.JPG

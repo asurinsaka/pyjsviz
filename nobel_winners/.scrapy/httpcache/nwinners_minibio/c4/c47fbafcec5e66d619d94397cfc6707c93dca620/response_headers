@@ -1,0 +1,9 @@
+Date: Thu, 03 Oct 2019 21:24:23 GMT
+Server: Varnish
+X-Varnish: 878091085
+X-Cache: cp1082 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc="int-front"
+Set-Cookie: WMF-Last-Access=03-Oct-2019;Path=/;HttpOnly;secure;Expires=Mon, 04 Nov 2019 12:00:00 GMT
+X-Client-Ip: 98.227.157.134
+Location: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Fran%C3%A7oise_Barr%C3%A9-Sinoussi-press_conference_Dec_06th%2C_2008-1.jpg/220px-Fran%C3%A7oise_Barr%C3%A9-Sinoussi-press_conference_Dec_06th%2C_2008-1.jpg

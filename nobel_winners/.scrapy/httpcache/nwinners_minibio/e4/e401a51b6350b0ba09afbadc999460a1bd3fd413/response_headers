@@ -1,0 +1,9 @@
+Date: Thu, 03 Oct 2019 21:24:05 GMT
+Server: Varnish
+X-Varnish: 865860459
+X-Cache: cp1082 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc="int-front"
+Set-Cookie: WMF-Last-Access=03-Oct-2019;Path=/;HttpOnly;secure;Expires=Mon, 04 Nov 2019 12:00:00 GMT
+X-Client-Ip: 98.227.157.134
+Location: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Samuel_ting_10-19-10.jpg/220px-Samuel_ting_10-19-10.jpg

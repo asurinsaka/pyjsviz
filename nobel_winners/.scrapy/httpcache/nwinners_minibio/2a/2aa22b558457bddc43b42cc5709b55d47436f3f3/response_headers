@@ -1,0 +1,22 @@
+Date: Thu, 03 Oct 2019 21:52:58 GMT
+Content-Type: image/jpeg
+Etag: cba6d5378bb3a3e1f0d60634c70d6da6
+Server: ATS/8.0.5
+X-Ats-Timestamp: 1570061136
+X-Object-Meta-Sha1Base36: 7mkr2alf6gwb7nyim20oh0uk98rdxps
+Content-Disposition: inline;filename*=UTF-8''Linus_Pauling_1962.jpg
+Last-Modified: Wed, 10 Feb 2016 06:45:51 GMT
+X-Timestamp: 1455086750.33470
+X-Trans-Id: txca7a592542b74e5aaf0f9-005d308c46
+X-Varnish: 885424596 650528226
+Age: 78441
+X-Cache: cp1076 hit, cp1082 hit/25
+X-Cache-Status: hit-front
+Server-Timing: cache;desc="hit-front"
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+X-Analytics: WMF-Last-Access=03-Oct-2019;https=1
+X-Client-Ip: 98.227.157.134
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Age, Date, Content-Length, Content-Range, X-Content-Duration, X-Cache, X-Varnish
+Timing-Allow-Origin: *
+Accept-Ranges: bytes

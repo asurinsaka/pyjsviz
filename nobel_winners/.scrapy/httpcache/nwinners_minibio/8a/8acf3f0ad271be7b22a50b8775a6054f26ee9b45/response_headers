@@ -1,0 +1,22 @@
+Date: Thu, 03 Oct 2019 21:53:07 GMT
+Content-Type: image/jpeg
+X-Object-Meta-Sha1Base36: 1d1p45qtbtfbtaphr6n8zr2q9n4fpl6
+Content-Disposition: inline;filename*=UTF-8''Eric_Betzig.jpg
+Last-Modified: Tue, 30 Jun 2015 13:59:45 GMT
+X-Timestamp: 1435672784.47192
+X-Trans-Id: tx8d828112ee68442b8a49c-005d953fef
+Etag: 8d2554dc506f78f0ba92b1f590d7140a
+Server: ATS/8.0.5
+X-Ats-Timestamp: 1570122086
+X-Varnish: 880853828 812861341
+Age: 77268
+X-Cache: cp1080 hit, cp1082 hit/3
+X-Cache-Status: hit-front
+Server-Timing: cache;desc="hit-front"
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+X-Analytics: WMF-Last-Access=03-Oct-2019;https=1
+X-Client-Ip: 98.227.157.134
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Age, Date, Content-Length, Content-Range, X-Content-Duration, X-Cache, X-Varnish
+Timing-Allow-Origin: *
+Accept-Ranges: bytes

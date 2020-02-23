@@ -1,0 +1,21 @@
+Date: Thu, 03 Oct 2019 21:53:15 GMT
+Content-Type: image/jpeg
+Etag: dd6a0130edf984a4dda7eca620f166d7
+Server: ATS/8.0.3
+X-Object-Meta-Sha1Base36: 8r0otvdds4x6ewoscqtbxh20sb5lnbv
+Content-Disposition: inline;filename*=UTF-8''Eyvind.JPG
+Last-Modified: Sun, 20 Jul 2014 20:44:46 GMT
+X-Timestamp: 1405889085.47267
+X-Trans-Id: tx1235fc0948cd40138724a-005d94531d
+X-Varnish: 885490582 733605768
+Age: 47976
+X-Cache: cp1084 miss, cp1082 hit/2
+X-Cache-Status: hit-front
+Server-Timing: cache;desc="hit-front"
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+X-Analytics: WMF-Last-Access=03-Oct-2019;https=1
+X-Client-Ip: 98.227.157.134
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Age, Date, Content-Length, Content-Range, X-Content-Duration, X-Cache, X-Varnish
+Timing-Allow-Origin: *
+Accept-Ranges: bytes

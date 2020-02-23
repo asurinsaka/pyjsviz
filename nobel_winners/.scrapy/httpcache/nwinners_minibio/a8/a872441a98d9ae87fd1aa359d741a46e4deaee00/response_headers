@@ -1,0 +1,22 @@
+Date: Thu, 03 Oct 2019 21:53:14 GMT
+Content-Type: image/png
+X-Object-Meta-Sha1Base36: 390uiozhmc5o25vre8fhsnvye556bmh
+Content-Disposition: inline;filename*=UTF-8''Msf_logo.svg.png
+Last-Modified: Sun, 05 Oct 2014 14:42:15 GMT
+X-Timestamp: 1412520134.54808
+X-Trans-Id: tx381c34cda40649dfbf2a0-005d95e509
+Etag: c084f64cd49b2307cec9be8522817381
+Server: ATS/8.0.5
+X-Ats-Timestamp: 1570104784
+X-Varnish: 879704552 753157331
+Age: 35009
+X-Cache: cp1078 hit, cp1082 hit/6
+X-Cache-Status: hit-front
+Server-Timing: cache;desc="hit-front"
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+X-Analytics: WMF-Last-Access=03-Oct-2019;https=1
+X-Client-Ip: 98.227.157.134
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Age, Date, Content-Length, Content-Range, X-Content-Duration, X-Cache, X-Varnish
+Timing-Allow-Origin: *
+Accept-Ranges: bytes

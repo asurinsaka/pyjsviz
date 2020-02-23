@@ -1,0 +1,9 @@
+Date: Thu, 03 Oct 2019 21:24:07 GMT
+Server: Varnish
+X-Varnish: 877891809
+X-Cache: cp1082 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc="int-front"
+Set-Cookie: WMF-Last-Access=03-Oct-2019;Path=/;HttpOnly;secure;Expires=Mon, 04 Nov 2019 12:00:00 GMT
+X-Client-Ip: 98.227.157.134
+Location: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Douglas_Osheroff_2011-08-08_cropped.JPG/250px-Douglas_Osheroff_2011-08-08_cropped.JPG

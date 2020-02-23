@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+	#chart {
+		background: #eee;
+		font-family: sans-serif;
+	}
+	
+	#chart text{ font-size: 16px; }
+	#chart text#title{ font-size: 18px; }
+
+	#chart line#total {
+		stroke: green;
+		stroke-width: 3px;
+		opacity: 0.5;
+	}
+
+	#chart circle {
+		fill: lightblue;
+	}
+
+	#chart line {
+		stroke: #555555; 
+		stroke-width: 2;
+	}
+
+	#chart rect {
+		stroke: red;
+		fill: white;
+	}
+
+	#chart polygon {
+		fill: green;
+	}
+	#chart path {stroke: red; fill: none}
+
+</style>
+
+<svg id="chart" width="300" height="225">
+	<path d="M40 80
+		 A30 40 0 0 1 80 80
+		 A30 40 0 0 0 120 80
+		 A30 40 0 1 0 160 80
+		 A30 40 0 1 1 200 80
+		 ">
+</svg>
+
+
+
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="script.js"></script>
